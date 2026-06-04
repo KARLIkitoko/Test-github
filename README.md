@@ -1,2 +1,3 @@
-je suis fière de créé un bot🌑꯭̽𐏓—͟͟͞͞🚫𝑲𝑨𝑹𝑳𝑰 ͟͟͞͞𝑳’𝑨̂𝑴𝑬 ☠️͟͟͞͞𝑫𝑴𝑮—͟͟͞͞# Test-github
-Mon premier projet 
+Je suis fière d'avoir créé mon premier projet sur GitHub !
+Mon dépôt s'appelle Test-github.
+
